@@ -2,6 +2,16 @@
 
 Este repositorio documenta los mods utilizados en mi instalación de Minecraft para el servidor **Server 1.21**, optimizados para mejorar el rendimiento, la estética, la jugabilidad y la experiencia general sin romper la esencia del juego vanilla.
 
+---
+
+## 📥 Descarga Rápida
+
+📦 Puedes descargar todos los mods en un solo archivo `.rar` desde el siguiente enlace:
+
+🔗 [Descargar Mods_Server_1.21.rar](https://www.mediafire.com/file/90lb8152j5u6fdg/Mods_Server_1.21.rar/file)
+
+---
+
 ## ⚙️ Versión del Juego
 - **Minecraft 1.21**
 - **Fabric Loader**
@@ -60,7 +70,7 @@ Este conjunto de mods fue cuidadosamente seleccionado para:
 
 ---
 
-## 📥 Requisitos
+## ✅ Requisitos
 - Java 17+
 - Fabric Loader compatible con Minecraft 1.21
 - Instalar mods en la carpeta `mods/`
